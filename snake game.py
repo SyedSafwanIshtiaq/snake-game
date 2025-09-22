@@ -1,7 +1,7 @@
 import turtle
 import random
 
-#  @python.coder_
+#  @mr.saf_._
 WIDTH = 500
 HEIGHT = 500
 FOOD_SIZE = 10
@@ -140,4 +140,5 @@ screen.onkey(go_left, "Left")
 
 # Let's go
 reset()
+
 turtle.done()
